@@ -1,0 +1,6 @@
+{
+  "name": "ARC - Analysis & Research Lab",
+  "description": "Plateforme prestigieuse et confidentielle de recherche, d'analyse et d'investigation en Géopolitique, Politique et Criminalité transnationale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
